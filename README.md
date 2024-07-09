@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - Question 1: answer can be viewed in the [Calculator.tsx](app/calculator/Calculator.tsx) file
 - Question 2: answer can be viewed in the [Header.tsx](components/Header.tsx) file
+- Question 3: answer can be viewed in the [twoSum.ts](app/question3/twoSum.ts) file
 
 ## Running the app
 
