@@ -14,7 +14,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={"h-full pt-14 px-6 md:px-10"}>
+      <body
+        className={
+          "flex flex-col items-center justify-center h-full pt-14 px-6 md:px-10"
+        }
+      >
         <Header />
         {children}
       </body>

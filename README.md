@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Viewing the answers
 
+- Question 1: answer can be viewed in the [Calculator.tsx](app/calculator/Calculator.tsx) file
 - Question 2: answer can be viewed in the [Header.tsx](components/Header.tsx) file
 
 ## Running the app
